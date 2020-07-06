@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Xaml_practice.PracticePage"
+             xmlns:local="clr-namespace:Xaml_practice">
+    <ContentPage.BindingContext>
+        <local:PracticePage></local:PracticePage>
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Welcome to Xamarin.Forms!"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <Grid>
+                <Grid.ColumnDefinitions></Grid.ColumnDefinitions>
+                <Grid.RowDefinitions></Grid.RowDefinitions>
+                <Editor Placeholder="Enter a note" Text="{Binding TheNote}"></Editor>
+                <Button Text="Save" Command="{Binding SaveButton}"></Button>
+                <Button Text="Delete" Command="{Binding DeleteButton}"></Button>
+                
+            </Grid>
+        </StackLayout>
+        
+        
+    </ContentPage.Content>
+</ContentPage>
