@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Xmal_1.DashBoard"
+             xmlns:local="clr-namespace:Xmal_1"
+             >
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <ControlTemplate x:Key="Template_2">
+                <Label Text="Header_2"></Label>
+            </ControlTemplate>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.BindingContext>
+        <local:DashBoard>
+
+        </local:DashBoard></ContentPage.BindingContext>
+    <Grid>
+        <Grid.ColumnDefinitions></Grid.ColumnDefinitions>
+        <Grid.RowDefinitions></Grid.RowDefinitions>
+        <Editor Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" Placeholder="Enter a Note" Margin="10,10" Text="{Binding TheNote}"/>
+        <Button Text="Save" Grid.Row="1" Grid.Column="0" Margin="10,0" BackgroundColor="Green" TextColor="White" Command="{Binding SaveCommand }"></Button>
+            <Button Text="Delete" Grid.Row="2" Grid.Column="1" Margin="10,0" BackgroundColor="Red" TextColor="Black" Command="{Binding EraseCommand}"></Button>
+        <CollectionView ItemsSource="{Binding AllNotes}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout>
+                        <Frame>
+                            <Label Text="{Binding .}"></Label>
+                        </Frame>
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+
+    </Grid>
+</ContentPage>
