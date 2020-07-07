@@ -1,0 +1,15 @@
+C:\Users\rouni\Documents\FridgePractice\WPFNavigation_Practice\WPFNavigation_Practice\WPFNavigation_Practice\bin\Debug\netstandard2.0\WPFNavigation_Practice.deps.json
+C:\Users\rouni\Documents\FridgePractice\WPFNavigation_Practice\WPFNavigation_Practice\WPFNavigation_Practice\bin\Debug\netstandard2.0\WPFNavigation_Practice.dll
+C:\Users\rouni\Documents\FridgePractice\WPFNavigation_Practice\WPFNavigation_Practice\WPFNavigation_Practice\bin\Debug\netstandard2.0\ref\WPFNavigation_Practice.dll
+C:\Users\rouni\Documents\FridgePractice\WPFNavigation_Practice\WPFNavigation_Practice\WPFNavigation_Practice\bin\Debug\netstandard2.0\WPFNavigation_Practice.pdb
+C:\Users\rouni\Documents\FridgePractice\WPFNavigation_Practice\WPFNavigation_Practice\WPFNavigation_Practice\obj\Debug\netstandard2.0\WPFNavigation_Practice.csprojAssemblyReference.cache
+C:\Users\rouni\Documents\FridgePractice\WPFNavigation_Practice\WPFNavigation_Practice\WPFNavigation_Practice\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\rouni\Documents\FridgePractice\WPFNavigation_Practice\WPFNavigation_Practice\WPFNavigation_Practice\obj\Debug\netstandard2.0\Dashboard.xaml.g.cs
+C:\Users\rouni\Documents\FridgePractice\WPFNavigation_Practice\WPFNavigation_Practice\WPFNavigation_Practice\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\rouni\Documents\FridgePractice\WPFNavigation_Practice\WPFNavigation_Practice\WPFNavigation_Practice\obj\Debug\netstandard2.0\WPFNavigation_Practice.AssemblyInfoInputs.cache
+C:\Users\rouni\Documents\FridgePractice\WPFNavigation_Practice\WPFNavigation_Practice\WPFNavigation_Practice\obj\Debug\netstandard2.0\WPFNavigation_Practice.AssemblyInfo.cs
+C:\Users\rouni\Documents\FridgePractice\WPFNavigation_Practice\WPFNavigation_Practice\WPFNavigation_Practice\obj\Debug\netstandard2.0\WPFNavigation_Practice.csproj.CoreCompileInputs.cache
+C:\Users\rouni\Documents\FridgePractice\WPFNavigation_Practice\WPFNavigation_Practice\WPFNavigation_Practice\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\rouni\Documents\FridgePractice\WPFNavigation_Practice\WPFNavigation_Practice\WPFNavigation_Practice\obj\Debug\netstandard2.0\WPFNavigation_Practice.dll
+C:\Users\rouni\Documents\FridgePractice\WPFNavigation_Practice\WPFNavigation_Practice\WPFNavigation_Practice\obj\Debug\netstandard2.0\ref\WPFNavigation_Practice.dll
+C:\Users\rouni\Documents\FridgePractice\WPFNavigation_Practice\WPFNavigation_Practice\WPFNavigation_Practice\obj\Debug\netstandard2.0\WPFNavigation_Practice.pdb
