@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.ComponentModel;
 using System.Linq;
 using System.Text;
@@ -13,9 +14,29 @@ namespace Xmal_1
     [DesignTimeVisible(false)]
     public partial class MainPage : ContentPage
     {
+        public Command SaveNoteCommand;
+        public Command EraseNoteCommand;
+        public Command SelectedNoteChangedCommand { get; }
+        public string selectedNote;
+
+        public ObservableCollection<string> Notes;
         public MainPage()
         {
             InitializeComponent();
+            Notes = new ObservableCollection<string>();
+            SelectedNoteChangedCommand = new Command(async() =>
+              {
+                  var detailVM = new DetailPage(selectedNote);
+                  var detailPage = new DetailPage();
+                  detailPage.BindingContext = detailVM;
+                  await Application.Current.MainPage.Navigation.PushAsync(detailPage);
+              });
+            SaveNoteCommand = new Command(() => { }, () => { });
+            EraseNoteCommand = new Command(() => NoteText = string.Empty);
+        }
+        public string NoteText
+        {
+
         }
     }
 }
