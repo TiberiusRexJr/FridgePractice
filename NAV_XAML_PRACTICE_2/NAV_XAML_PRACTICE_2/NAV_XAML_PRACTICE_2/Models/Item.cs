@@ -1,5 +1,5 @@
 using System;
-namespace NAV_XAML_PRACTICE_2
+namespace NAV_XAML_PRACTICE_2.Models
 {
     public class Item
     {
