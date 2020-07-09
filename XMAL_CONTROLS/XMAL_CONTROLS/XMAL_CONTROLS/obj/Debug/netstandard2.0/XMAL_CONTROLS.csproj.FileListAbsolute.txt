@@ -1,0 +1,14 @@
+C:\Users\rouni\Documents\DigitalArt3\XMAL_CONTROLS\XMAL_CONTROLS\XMAL_CONTROLS\bin\Debug\netstandard2.0\XMAL_CONTROLS.deps.json
+C:\Users\rouni\Documents\DigitalArt3\XMAL_CONTROLS\XMAL_CONTROLS\XMAL_CONTROLS\bin\Debug\netstandard2.0\XMAL_CONTROLS.dll
+C:\Users\rouni\Documents\DigitalArt3\XMAL_CONTROLS\XMAL_CONTROLS\XMAL_CONTROLS\bin\Debug\netstandard2.0\ref\XMAL_CONTROLS.dll
+C:\Users\rouni\Documents\DigitalArt3\XMAL_CONTROLS\XMAL_CONTROLS\XMAL_CONTROLS\bin\Debug\netstandard2.0\XMAL_CONTROLS.pdb
+C:\Users\rouni\Documents\DigitalArt3\XMAL_CONTROLS\XMAL_CONTROLS\XMAL_CONTROLS\obj\Debug\netstandard2.0\XMAL_CONTROLS.csprojAssemblyReference.cache
+C:\Users\rouni\Documents\DigitalArt3\XMAL_CONTROLS\XMAL_CONTROLS\XMAL_CONTROLS\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\rouni\Documents\DigitalArt3\XMAL_CONTROLS\XMAL_CONTROLS\XMAL_CONTROLS\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\rouni\Documents\DigitalArt3\XMAL_CONTROLS\XMAL_CONTROLS\XMAL_CONTROLS\obj\Debug\netstandard2.0\XMAL_CONTROLS.AssemblyInfoInputs.cache
+C:\Users\rouni\Documents\DigitalArt3\XMAL_CONTROLS\XMAL_CONTROLS\XMAL_CONTROLS\obj\Debug\netstandard2.0\XMAL_CONTROLS.AssemblyInfo.cs
+C:\Users\rouni\Documents\DigitalArt3\XMAL_CONTROLS\XMAL_CONTROLS\XMAL_CONTROLS\obj\Debug\netstandard2.0\XMAL_CONTROLS.csproj.CoreCompileInputs.cache
+C:\Users\rouni\Documents\DigitalArt3\XMAL_CONTROLS\XMAL_CONTROLS\XMAL_CONTROLS\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\rouni\Documents\DigitalArt3\XMAL_CONTROLS\XMAL_CONTROLS\XMAL_CONTROLS\obj\Debug\netstandard2.0\XMAL_CONTROLS.dll
+C:\Users\rouni\Documents\DigitalArt3\XMAL_CONTROLS\XMAL_CONTROLS\XMAL_CONTROLS\obj\Debug\netstandard2.0\ref\XMAL_CONTROLS.dll
+C:\Users\rouni\Documents\DigitalArt3\XMAL_CONTROLS\XMAL_CONTROLS\XMAL_CONTROLS\obj\Debug\netstandard2.0\XMAL_CONTROLS.pdb
