@@ -1,0 +1,8 @@
+On App start;
+1. check for local database existence
+2. if database not found downloads the most CURRENT versions of SERVER BASED DATABASE
+3. DOES STEPS 1 AND 2 ASYNCHROUNOUSLY
+
+
+NOTES:
+1. chekc out that backend code shit on "TheBinding" project
